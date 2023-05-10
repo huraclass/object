@@ -1,0 +1,9 @@
+package com.example.object.ptr1;
+
+
+import java.time.LocalDateTime;
+
+
+public class Invitation {
+    private LocalDateTime when;
+}
